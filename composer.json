@@ -1,0 +1,21 @@
+{
+    "name": "yiidoc/yii2-material-io",
+    "description": "Google Material style for Yii2 framework",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nghia Nguyen",
+            "email": "yiidevelop@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "yiidoc\\material\\": "src"
+        }
+    }
+}
